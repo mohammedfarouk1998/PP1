@@ -149,11 +149,11 @@ Use the [K-Map method](https://github.com/STEMgraph/4b957490-badf-4264-b9f2-1b5a
 <details>
 <summary>The final functions</summary>
 
-Q<sub>0</sub> = .......
+Q<sub>0</sub> =  = A_0 \oplus B_0
 
-Q<sub>1</sub> = .......
+Q<sub>1</sub> = A_1 \oplus B_1 \oplus (A_0 \cdot B_0)
 
-C<sub>out</sub> = .......
+C<sub>out</sub> = (A_1 \cdot B_1) + (A_1 \cdot A_0 \cdot B_0) + (B_1 \cdot A_0 \cdot B_0)
 
 </details>
 
