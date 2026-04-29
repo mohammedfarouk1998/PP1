@@ -85,7 +85,7 @@ Fill out the following table, mapping decimal numbers `0` through `15` to their 
 |13         |    1011                    |
 |14         |    1110                    |
 |15         |    1111                    |
-**How many binary digits (bits) are needed?**
+**How many binary digits (bits) are needed? 4**
 
 Explain how to calculate the number of bits required:
 <details>
