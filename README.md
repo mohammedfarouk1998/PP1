@@ -162,11 +162,12 @@ C<sub>out</sub> = $(A_1 \cdot B_1) + (A_1 \cdot A_0 \cdot B_0) + (B_1 \cdot A_0 
 ### Task 4: Circuit Implementation
 Using your Boolean equations, build a logic network in [CircuitVerse](https://circuitverse.org) that implements at least one bit of the adder.
 
-<iframe src="https://circuitverse.org/simulator/embed/circuit-497f1a82-8769-4648-acce-27cbca9d5f86?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true" style="border-width:; border-style: ; border-color:;" name="myiframe" id="projectPreview" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500" width="500" allowFullScreen></iframe>
+
+
 
 <details>
 <summary>Your solution</summary>
-A share link to your solution goes here: <a href="(https://circuitverse.org/users/425879/projects/circuit-497f1a82-8769-4648-acce-27cbca9d5f86)">Link!</a>
+A share link to your solution goes here: <a href="https://circuitverse.org/simulator/embed/circuit-497f1a82-8769-4648-acce-27cbca9d5f86">Link!</a>
 </details>
 
 ---
