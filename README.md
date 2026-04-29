@@ -90,7 +90,8 @@ Fill out the following table, mapping decimal numbers `0` through `15` to their 
 Explain how to calculate the number of bits required:
 <details>
 <summary>Your Answer</summary>
-Erase this text and write your answer here!
+Ich habe kalkuliert dadaurch die erste stelle von links nach rechts folgendes 
+(2^3)+(2^2)+(2^1)+(2^0) und jede stelle habe ich auf 1 od. 0 gewechselt    wenn es 1 bedeutet es ist wahr aber wenn es 0 nicht wahr ist und ich addiere das Nummer nicht
 </details>
 
 ---
