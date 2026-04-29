@@ -118,15 +118,24 @@ Refer to the truth table of a 1-bit full adder:
 
 #### Your Task
 Create a truth table for a **2-bit adder** without carry-in. What are the possible inputs and outputs?
-
->   Your
->
->   table
->
->   goes
->
->   here!
-
+| $A_1$ | $A_0$ | $B_1$ | $B_0$ | Decimal Sum | $S_2$ | $S_1$ | $S_0$ |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 0 | 0 | 1 | 0 | 2 | 0 | 1 | 0 |
+| 0 | 0 | 1 | 1 | 3 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 0 | 1 | 0 | 1 | 2 | 0 | 1 | 0 |
+| 0 | 1 | 1 | 0 | 3 | 0 | 1 | 1 |
+| 0 | 1 | 1 | 1 | 4 | 1 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 1 | 0 | 0 | 1 | 3 | 0 | 1 | 1 |
+| 1 | 0 | 1 | 0 | 4 | 1 | 0 | 0 |
+| 1 | 0 | 1 | 1 | 5 | 1 | 0 | 1 |
+| 1 | 1 | 0 | 0 | 3 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 1 | 4 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 0 | 5 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 | 6 | 1 | 1 | 0 |
 ---
 
 ### Task 3: Boolean Equations via Karnaugh Maps
